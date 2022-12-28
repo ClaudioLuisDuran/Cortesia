@@ -1,0 +1,92 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="es">
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<META NAME="Title" CONTENT="Sidra Cortesia - Cortesia Cider">
+<META NAME="Author" CONTENT="Claudio Duran">
+<META NAME="Subject" CONTENT="Planta elaboradora de Sidras">
+<META NAME="Description" CONTENT="Bodega elaboradora de Sidras. Ciders processing plant in Tunuyán, Mendoza, Argentina.">
+<META NAME="Keywords" CONTENT="Sidra, Cider, Manzana, Apple, Tunuyán, mendoza, Aconcagua, Vino, Wines, Napatina, Napa, Argentina, Champagne">
+<META NAME="Language" CONTENT="Spanish, English">
+<META NAME="Revisit" CONTENT="1 day">
+<META NAME="Distribution" CONTENT="Global">
+<META NAME="Robots" CONTENT="All">
+
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>.:: Welcome to Cortesia Cider :: Tunuyán - Mendoza - Argentina ::.</title>
+
+
+
+</head>
+
+
+<BODY STYLE="background-image:url('images/f2.png'); background-repeat:no-repeat; background-attachment: fixed" bgcolor="#FFFFFF">
+</BODY>
+
+<div align="center">
+  <center>
+  <table border="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="1" height="508" cellpadding="0">
+    <tr>
+      <td width="1052" height="1" valign="top">
+      <div align="center">
+        <center>
+        <table border="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="789" height="185" background="images/marcoamarillo.png" cellpadding="0">
+          <tr>
+            <td align="center" height="181">
+            <img border="0" src="images/logook2.png"></td>
+          </tr>
+          </table>
+        </center>
+      </div>
+      <p align="center"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="347" height="192" id="cuadro1" align="middle">
+<param name="allowScriptAccess" value="sameDomain" />
+<param name="movie" value="cuadro1.swf" /><param name="quality" value="high" /><param name="bgcolor" value="#fcf4d8" /><embed src="cuadro1.swf" quality="high" bgcolor="#fcf4d8" width="347" height="192" name="cuadro1" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" /></object>
+      </td>
+    </tr>
+    <tr>
+      <td width="837" height="94" valign="top">
+      <div align="center">
+        <center>
+        <p align="center"><a href="index_es.asp"><img border="0" src="images/argentina.gif"></a><span lang="es">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="en/index.asp">
+        <img border="0" src="images/usa1cc.gif"></a></span></p>
+        </center>
+      </div>
+      <div align="center">
+        <center>
+        <p align="center"><b><font color="#570E0A" size="2" face="Arial">
+        <span lang="es"><a href="index_es.asp" style="text-decoration: none">
+        <font color="#570E0A">Español</font></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="en/index.asp" style="text-decoration: none">
+        <font color="#570E0A">English</font></a>&nbsp;&nbsp;&nbsp; </span></font></b></p>
+        </center>
+      </div>
+</td>
+    </tr>
+    </table>
+  </center>
+</div>
+
+
+
+
+
+<p align="center"><span lang="es"><!-- Histats.com  START  -->
+<a href="http://www.histats.com/es/" target="_blank" title="contador" ><script  type="text/javascript" language="javascript">
+var s_sid = 761501;var st_dominio = 4;
+var cimg = 173;var cwi =85;var che =17;
+                        </script></a>
+<script  type="text/javascript" language="javascript" src="http://s11.histats.com/js9.js"></script>
+<noscript>
+<a href="http://www.histats.com/es/" target="_blank">
+<img  src="http://s103.histats.com/stats/0.gif?761501&1" alt="contador" border="0"></a></noscript>
+<!-- Histats.com  END  --></span></p>
+
+
+
+
+
+
+</html>
